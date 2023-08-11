@@ -1,0 +1,64 @@
+# Arquivos gerados pelo Maven
+target/
+
+# Logs
+*.log
+log/
+logs/
+
+# Arquivos de configuração
+application.properties
+application.yml
+
+# Arquivos do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos do IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Arquivos de build do Gradle
+.gradle/
+build/
+
+# Arquivos de configuração do Visual Studio Code
+.vscode/
+
+# Dependências do Maven
+/.mvn/
+mvnw
+mvnw.cmd
+
+# Arquivos de histórico de sessão do Spring Boot DevTools
+/.spring-boot-devtools.properties
+
+# Arquivos de armazenamento local do H2 Database
+.h2.*
+
+# Arquivos de configuração do Tomcat
+conf/
+
+# Cache e arquivos temporários
+*.cache
+*.tmp
+*.log*
+
+# Arquivos de configuração de teste
+test-output/
+
+# Arquivos de projeto NetBeans
+nb-configuration.xml
+
+# Arquivos gerados pelo Spring Initializr
+.springBeans
+
+# Arquivos gerados pelo Lombok
+*.lombok
+
+# Arquivos de compilação Gradle
+build/
+out/
